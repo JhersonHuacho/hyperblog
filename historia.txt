@@ -5,3 +5,4 @@ master - cambios en el master
 rama cabecera
 Se realizaron cambios en la cabecera
 hyperblog 2.0
+cambios en el HEADER
